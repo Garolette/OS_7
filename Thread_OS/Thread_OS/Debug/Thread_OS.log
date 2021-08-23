@@ -1,0 +1,4 @@
+﻿  Thread_OS.cpp
+C:\Users\lezin\Desktop\OS_File_7\Thread_OS\Thread_OS\Thread_OS.cpp(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lezin\Desktop\OS_File_7\Thread_OS\Thread_OS\Thread_OS.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Thread_OS.vcxproj -> C:\Users\lezin\Desktop\OS_File_7\Thread_OS\Debug\Thread_OS.exe
